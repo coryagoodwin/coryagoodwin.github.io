@@ -1,6 +1,7 @@
 # Welcome to my Page
 
 ##Introduction
+
 ###1-12-2020
 
 I will be blogging in this format on this page for the entire semester, adding new posts on top of this one in the same format. I believe this is the simplest way to do it while looking professional. I've utilized the Pages function of Github with the Midnight theme created by user 'mattgraham'. I followed these steps to set this site up, and they have been very useful: https://guides.github.com/features/pages/
