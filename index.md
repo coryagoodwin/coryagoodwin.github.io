@@ -1,6 +1,6 @@
 # Welcome to my Page
-
-
+<hr>
+<hr>
 
 ## Introduction
 
