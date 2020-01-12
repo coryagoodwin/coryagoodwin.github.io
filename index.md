@@ -1,5 +1,5 @@
 # Welcome to my Page
-<br>
+<hr>
 <br>
 
 ## Introduction
