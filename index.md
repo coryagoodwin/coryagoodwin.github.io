@@ -2,6 +2,16 @@
 <br>
 <br>
 
+## Reflections on FOSS
+
+### 1-22-2020 [pending]
+
+I'm not sure if I'm only supposed to talk about The Cathedral and the Bazaar in this post, but I figured I'd blog about my team experience throughout the week as well. Progress with my team has been going very well. I'd worked with two of the members before in previous classes (and in the case of one, work environments) so we're getting along well and tossing ideas along nicely. I'd originally suggested that we go with Osu!, as it looked like a lot of fun and that there was plenty to do. Unfortunately, after trying to get in contact with them on their official Discord Server, nobody had replied after two attempts (following their rules), so I figured with that sort of response we wouldn't be able to get much done in the way of communication, and went with Mozilla instead. We're currently tossing around ideas for add-ons to make, and alternatively we can contribute to their addons-frontend repository.
+
+Now, on the topic of The Cathedral and the Bazaar, [wip, still reading]
+
+
+
 ## Introduction
 
 ### 1-12-2020
