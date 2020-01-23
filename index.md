@@ -4,12 +4,11 @@
 
 ## Reflections on FOSS
 
-### 1-22-2020 [pending]
+### 1-23-2020
 
 I'm not sure if I'm only supposed to talk about The Cathedral and the Bazaar in this post, but I figured I'd blog about my team experience throughout the week as well. Progress with my team has been going very well. I'd worked with two of the members before in previous classes (and in the case of one, work environments) so we're getting along well and tossing ideas along nicely. I'd originally suggested that we go with Osu!, as it looked like a lot of fun and that there was plenty to do. Unfortunately, after trying to get in contact with them on their official Discord Server, nobody had replied after two attempts (following their rules), so I figured with that sort of response we wouldn't be able to get much done in the way of communication, and went with Mozilla instead. We're currently tossing around ideas for add-ons to make, and alternatively we can contribute to their addons-frontend repository.
 
-Now, on the topic of The Cathedral and the Bazaar, [wip, still reading]
-
+Now, on the topic of The Cathedral and the Bazaar, I found it very interesting to read about the different types of approaches to open-source development. I'm not very familiar with open-source development (which is why what we'll be working on in this class will be a nice learning experience for me) but of what I know of open-source development, I always thought of it as more of the bazaar-style development process that is described here which is/was used to develop Linux. I always thought that was the only real way to go about open-source development, keeping everything out in the open and opening the development arms outwards towards anyone who wanted to take a crack at it. However, the cathedral-style of development also makes sense, and both seem to be successful in their own ways, but it's clear that the bazaar-style of development is taking the reins in popularity, and for good reason; it's highly effective and efficient. This exerpt is quite outdated by today's standards, being originally written in 1997 with revisions dating up to August 2000 (20 whole years ago), but given that I hadn't even thought of the existence of the cathedral-style development model beforehand gives me the impression that, from what I'm aware of open-source development, the bazaar-style has taken over even further, proving to be the more powerful approach. It makes me wonder if any other styles of open-source development have emerged along with newer technology. With Github getting its start in 2008, it surely seems to have changed a lot about how we handle open-source development, so perhaps it's ready for a new assessment (if one doesn't already exist).
 
 
 ## Introduction
