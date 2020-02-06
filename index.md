@@ -2,6 +2,22 @@
 <br>
 <br>
 
+## This bugs me
+
+### 2-06-2020
+
+I will be doing the following exercises from the <a href='https://quaid.fedorapeople.org/TOS/Practical_Open_Source_Software_Exploration/html/ch-Debugging_the_Code.html'>Teaching Open Source website</a>: 6.4, 6.5, 6.6, and 6.7.
+
+6.4) The oldest bug I could find using Bugzilla is <a href='https://bugzilla.mozilla.org/show_bug.cgi?id=224571'>this</a> bug titled 'ldap_simple_bind_s() returns LDAP_PARAM_ERROR instead of LDAP_TIMEOUT', which hasn't been updated since 2006. This is a simple problem where an error reporting function returns the wrong value. However, it isn't clear when this would happen, and given how old this issue is, I'm unsure if any of these variables are still there, let alone where they would be in the code. Someone else asked for more information, and the reporter provided some more information but said he himself did not remember where it was. I may follow up later and see if I can trace what the issue could be or if it's still an issue.
+
+6.5) I have already created an account as detailed in my previous reports.
+
+6.6) I'll just reflect on the Bookmark bug I'm working on now. I was able to reproduce the bug quite simply by following the gif that was posted in the <a href='https://bugzilla.mozilla.org/show_bug.cgi?id=1398753'>thread</a> but the main issue here is whether or not this 'bug' is by design or not. One may hope that by removing a page bookmark, it removes that page from bookmarks entirely, even if it is bookmarked more than once, but another may have that same page in different folders that they use to check different things, and would want to keep one in the event that another is erased. In that sense, the way it works is probably better, but we have been able to narrow down what would need to change in order to get it working this way. Even if a fix is not approved, I will be looking into providing a plug-in which changes the behavior in such a way the reporter described it should work, in case anybody would prefer it that way.
+
+6.7) As of writing this I'm not currently in a position to test bugs so it would be difficult to find anything to contribute to triaging bugs that isn't mostly useless, but it is something I plan to do extensively throughout the semester when searching for bugs, and something I have already done for the one described above, as well as the VM issue our team is tackling through contacting developers in the #developers IRC. I won't have time before this blog is due (my bad, poor time management) to be in such a position to do this exercise so I'll be forfeiting this one for now. Maybe I'll make it up in a later blog entry.
+
+Our team has taken up the project of getting the Mozilla VM up and running again and we are still looking into how we can do that. Given it is feasible to perform within the semester it would be our big project with three main goals; to get it running again, to correct information on the wikipedia page for it, and to drum up support for it so that it does not become abandoned again once the semester is over. We have made some progress on getting it working again, but we need to do some more research on who was initially in charge of the previous (now broken) VM and how best to approach this given Mozilla's guidelines.
+
 ## Reflections on Open Source in Today's World
 
 ### 1-30-2020
