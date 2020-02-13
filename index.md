@@ -2,6 +2,14 @@
 <br>
 <br>
 
+## What's Happening?
+
+### 2-13-2020
+
+The magazine I picked up to look at is from Communications of the ACM, edition 07/2014 Volume 57 No. 7 with the subtitle "Your Phone as Quake Detector". The article I'm choosing to discuss is titled "Automated QA Testing at Electronic Arts", and doesn't seem to be written by any particular person (with credit going to acmqueue at queue.acm.org). The article discusses the effectiveness of automated QA testing for the company Electronic Arts, as well as the challenges that are faced with such testing. Automated QA Testing is essentially writing scripts to run through your program to test and make sure that you receive the expected outcome. Scripts that do not receive the expected outcome are investigated and any bugs that led to that change in outcome are fixed. In this situation, this is applying to video games where bugs and exploits are famously present. This is why specific video games tend to have an entire team focused on game testing to spot these flaws and point them out to the development team. Games such as Fortnite are constantly evolving with weekly patches that fix and break new things on a constant basis, and since that game holds online tournaments with real prizes, the pressure to prevent and fix exploits is ever present and high. That's why developers like Electronic Arts have looked into automatic this process, as both a cost-saving measure and an efficient one.
+
+In this article, Terry Coatta (a member of the ACM Queue board), Michael Donat (advocate for automation at EA), and Jafar Husain (lead software developer for Netflix) discuss automated QA testing in detail. Michael Donat specifically states that it is good to develop automation for QA testing so that the testers can actually focus on the fun experience of the game, rather than focusing primarily on what he calls "stability testing" which automation could handle more easily. After reading this article, I tried to do research on whether or not this became a common practice in game development (since the article is 6 years old and it seems that it was on the rise at the time) but I wasn't able to find much relevant information posted within the past four years, with the latest article I could find dating back to 2016. I would assume that this is still being used, but I was unable to find any hard statistics on it, and is something I'll need to dig deeper into (perhaps if I enter the gaming industry after I graduate, which is quite possible).
+
 ## This bugs me
 
 ### 2-06-2020
