@@ -10,6 +10,8 @@ The magazine I picked up to look at is from Communications of the ACM, edition 0
 
 In this article, Terry Coatta (a member of the ACM Queue board), Michael Donat (advocate for automation at EA), and Jafar Husain (lead software developer for Netflix) discuss automated QA testing in detail. Michael Donat specifically states that it is good to develop automation for QA testing so that the testers can actually focus on the fun experience of the game, rather than focusing primarily on what he calls "stability testing" which automation could handle more easily. After reading this article, I tried to do research on whether or not this became a common practice in game development (since the article is 6 years old and it seems that it was on the rise at the time) but I wasn't able to find much relevant information posted within the past four years, with the latest article I could find dating back to 2016. I would assume that this is still being used, but I was unable to find any hard statistics on it, and is something I'll need to dig deeper into (perhaps if I enter the gaming industry after I graduate, which is quite possible).
 
+As an update on the project, we are in direct contact with a Mozilla employee now to see about getting assigned a project that fits our size and capabilities. And, as a personal note, this article starts on page 50. You're welcome, me.
+
 ## This bugs me
 
 ### 2-06-2020
