@@ -2,6 +2,12 @@
 <br>
 <br>
 
+## Stupid or Solid?
+
+### 2-20-2020
+
+Content pending.
+
 ## What's Happening?
 
 ### 2-13-2020
