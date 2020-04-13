@@ -6,13 +6,15 @@
 
 ### 4-09-2020
 
-Content pending.
+Unfortunately due to COVID-19, I was unable to attend any meetings in Charleston, as around the time I was deciding on which conference to attend, everything was suddenly cancelled. I was considering going to the Charleston Indie Game Developers meet, but there didn't seem to be one scheduled, and if there were to be one, certainly it wasn't happening now. I was interested in going there because video games are one of my favorite forms of media, arguably a passion of mine. It's also a good chance to utilize my Japanese ability with something I have passion for and easily gain experience translating and working with one of the things I love the most. In that sense, going to an Indie Game Developer conference would have been a wonderful opportunity to connect with people and seeing their ideas for new games, but unfortunately I couldn't find anything else like it, and now I won't be able to. Still, I am interested in going to something similar to this once this whole pandemic thing finally blows over.
+
+I'll go ahead and take the rest of the blog entry to discuss fully what we accomplished this semester. After some bouncing around, we discussed things with Mozilla employees (shoutouts to Mike Hoye and Josh Matthews who helped us find the right project) and began working on DelayNode development for the audio interface in Mozilla. We made some good progress in it, though with all of the events surrounding it, we haven't been able to finish it up. However, hopefully we can get things more or less finalized by the end of the semester. Things should be full speed ahead from here, and we can't wait to make our posters/presentations for the poster session and CS After Five. This is the last blog post I'll make here, thank you for reading!
 
 ## Chapter 9
 
 ### 4-07-2020
 
-Content pending.
+This chapter discusses the general end-result from all of the work you've put into the CO-FOSS project. With something like this, it isn't about developing it and being done with it, even if that's your plan. With a project like this, it's about developing it and establishing a framework for continued development. This means setting up a repository, using public forums to generate a support community, and so-on. It first discusses the transition from something of a personal/group project to a professional product/service/etc. This means finding a host that will keep the project up and running (such as GitHub) and a developer who will continue to support it (even if that means yourself) and generate support so that others can join in. The result of this is any sort of open-source software you can think of: Firefox, Linux, etc. We had the pleasure of working with Mozilla this semester, so I was very grateful to have experience with assisting the development and application of the DelayNode for their Rust-based web browser, Servo. I learned a lot in this experience, and this chapter really relates to it in that way. While it isn't the exact same, we will be pushing our code and attempting to find someone else to carry on the torch for finishing the implementation or going on to further implement off of our implementation, and that is something I can say I'm happy to have experienced. 
 
 ## Chapter 6
 
