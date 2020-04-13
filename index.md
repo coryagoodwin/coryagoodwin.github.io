@@ -18,13 +18,13 @@ Content pending.
 
 ### 3-24-2020
 
-Content pending.
+Well, in my previous post I had discussed how the domain classes reminded me of database development, and now in the next chapter I see it's discussing Database Development directly. As for reflections on this article, I have to admit I'm not sure what to say, other than this is all very useful information. A lot of the tools discussed here are familiar to me in at least a vague sense. Reading how this can be applied in a CO-FOSS development process is definitely interesting as well, and seeing the different examples of code helps me grasp a better understanding of what's being discussed. A good portion of the chapter is spent discussing how to use SQL as well
 
 ## Chapter 5
 
 ### 3-12-2020
 
-Content pending.
+Chapter 5 discusses Domain Class Development in the CO-FOSS development process. It discusses four different occurrences of the Person class (Homebase, Homeroom, Homeplate, and BMAC-Warehouse). Discussion of this reminded me of my Database Concepts class which conceptualized the relationship between entities in data sets, relating to "one-to-many", "many-to-one", "many-to-many", etc. concepts of relationship. In this example, all four products have one or more persons in an administrative role, so in terms of Database Concepts: Products → Administrator (one-to-many, e.g. one product has one or more administrators). This is just based on what I can remember of the class, so it's quite possible that I'm not 100% accurate on this, but regardless that is what I'm reminded of here. In relation, the creation of the class reminded me a lot of the SQL code that we learned in that class (and subsequently in a few other courses, most notably to me my Website Programming course). Establishing these variables and keys was crucial, and I can see how it applies in the creation of the classes here quite clearly. If there's anything in software development that I find the most interest in, it's definitely databases. This is mostly due to the clear-cut language that languages like SQL uses to make things easier to remember. Even now, trying to remember the strict syntax of Java is basically impossible, while I could probably remember/guess a lot of SQL commands. Overall, I found the information in this article very useful for the development of domain classes and I can certainly see myself referencing back to it if I was in need of the information.
 
 ## Release early and often
 
