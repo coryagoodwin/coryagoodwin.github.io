@@ -18,7 +18,7 @@ Content pending.
 
 ### 3-24-2020
 
-Well, in my previous post I had discussed how the domain classes reminded me of database development, and now in the next chapter I see it's discussing Database Development directly. As for reflections on this article, I have to admit I'm not sure what to say, other than this is all very useful information. A lot of the tools discussed here are familiar to me in at least a vague sense. Reading how this can be applied in a CO-FOSS development process is definitely interesting as well, and seeing the different examples of code helps me grasp a better understanding of what's being discussed. A good portion of the chapter is spent discussing how to use SQL as well
+Well, in my previous post I had discussed how the domain classes reminded me of database development, and now in the next chapter I see it's discussing Database Development directly. As for reflections on this article, I have to admit I'm not sure what to say, other than this is all very useful information. A lot of the tools discussed here are familiar to me in at least a vague sense. Reading how this can be applied in a CO-FOSS development process is definitely interesting as well, and seeing the different examples of code helps me grasp a better understanding of what's being discussed. A good portion of the chapter is spent discussing how to use SQL as well through various frameworks, so it provides some good examples there as well. All in all, what I take from this article can be summed up in my previous blog post, so there's not much point talking more about it without being a little redundant.
 
 ## Chapter 5
 
