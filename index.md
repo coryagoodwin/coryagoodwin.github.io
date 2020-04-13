@@ -2,6 +2,36 @@
 <br>
 <br>
 
+## Meeting Charleston
+
+### 4-09-2020
+
+Content pending.
+
+## Chapter 9
+
+### 4-07-2020
+
+Content pending.
+
+## Chapter 6
+
+### 3-24-2020
+
+Content pending.
+
+## Chapter 5
+
+### 3-12-2020
+
+Content pending.
+
+## Release early and often
+
+### 3-05-2020
+
+Content pending.
+
 ## Stupid or Solid?
 
 ### 2-20-2020
